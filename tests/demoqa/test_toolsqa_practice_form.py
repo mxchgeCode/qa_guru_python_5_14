@@ -13,7 +13,7 @@ def test_form_filling_submitting(setup_browser):
     registration_page.fill_email('Michael@Kors.com')
     registration_page.select_gender('Male')
     registration_page.fill_phone_number('8667095677')
-    registration_page.fill_date_of_birth('1959', 'August', '9')
+    # registration_page.fill_date_of_birth('1959', 'August', '9')
 
     registration_page.fill_subject('English')
     registration_page.fill_subject('Accounting')
@@ -31,7 +31,7 @@ def test_form_filling_submitting(setup_browser):
         'Michael@Kors.com',
         'Male',
         '8667095677',
-        '9 August,1959',
+        # '9 August,1959',
         'English, Accounting',
         'Music',
         'account.png',

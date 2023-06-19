@@ -23,12 +23,12 @@
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-primitives-fb1d51d1ef66.css" />
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-0e3420bbec16.css" />
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/global-a55bf4a27d6d.css" />
-    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/github-f0d28f183bb7.css" />
+    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/github-1c76916a54fc.css" />
   <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/code-554c92b43987.css" />
 
 
 
-  <script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=RnIhKV8wGxjO97nWIQYnE0gSgvInAj99AmGmSovq8PeNcvDeuXHpNsEpPdFlUBD2YRBk9qXKwY55Bh2Z4Pl8hTNThZcZMnc8AFJexxac3fqqVQJgjTlPWT1Ca__yrnuydJnbfxUXItGVQh2oaSV_uA" charset="UTF-8"></script><script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-6b827b1553ff.js"></script>
+  <script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=nEkbvMjH9bRI55c9a3PO_9gz8kRBBLhfbeMY_DyfbF9WDU_kOc3x-i03qlrf8L5MTEL5WWjeRfk4Ijk8WLLxLU79NtcKUTuAFz9mayHyyfE6mJLecdUlb-P1D2NopreFzj9qvBn6F3_6SAIsSxqfOSIKku790zGCEx0qZ8i6KCE" charset="UTF-8"></script><script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-7c42e9acff4a.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_stacktrace-parser_dist_stack-trace-parser_esm_js-node_modules_github_bro-a4c183-ae93d3fba59c.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_soft-nav_soft-nav_ts-899d6d5b0d82.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/environment-07edc14d05eb.js"></script>
@@ -82,11 +82,11 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_react-core_Entry_tsx-d7bb6c9e07f2.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_ref-selector_RefSelector_tsx-ui_packages_safe-html_SafeHTML_tsx-77654c1f984d.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_blackbird-monolith_hooks_use-navigate-to-query_ts-app_assets_modules_black-8527d4-2c5398859eee.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_react-code-view_pages_CodeView_tsx-32ee97927e41.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_react-code-view_pages_CodeView_tsx-d54e08d986b9.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-code-view-9642743d6fa6.js"></script>
 
 
-  <title>qa_guru_12_lesson/allure-piechart-telegram-2.0.5.jar at main · horo053/qa_guru_12_lesson</title>
+  <title>qa_guru_4_9_telegram/allure-piechart-telegram-2.0.5.jar at master · autotests-cloud/qa_guru_4_9_telegram</title>
 
 
 
@@ -96,10 +96,10 @@
   <meta name="current-catalog-service-hash" content="82c569b93da5c18ed649ebd4c2c79437db4611a6a1373e805a3cb001c64130b7">
 
 
-  <meta name="request-id" content="6598:314F:1433D66:1475AD6:6490B09D" data-turbo-transient="true" /><meta name="html-safe-nonce" content="cfe985961185f552c3a3a942ea006d32e9ff8fa6ef78b0b02afa28ff437768cf" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9ob3JvMDUzL3FhX2d1cnVfMTJfbGVzc29uL2Jsb2IvbWFpbi9hbGx1cmUtcGllY2hhcnQtdGVsZWdyYW0tMi4wLjUuamFyIiwicmVxdWVzdF9pZCI6IjY1OTg6MzE0RjoxNDMzRDY2OjE0NzVBRDY6NjQ5MEIwOUQiLCJ2aXNpdG9yX2lkIjoiODMzOTg0ODU0NzkzMzg3MDI5NCIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="a18762dc50d37b6c6196ff4025b2f4086465a8ef47a2d543a13302f645078e79" data-turbo-transient="true" />
+  <meta name="request-id" content="793B:24E7:1E3FC1A:1EA286F:6490C8E1" data-turbo-transient="true" /><meta name="html-safe-nonce" content="cfe985961185f552c3a3a942ea006d32e9ff8fa6ef78b0b02afa28ff437768cf" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9hdXRvdGVzdHMtY2xvdWQvcWFfZ3VydV80XzlfdGVsZWdyYW0iLCJyZXF1ZXN0X2lkIjoiNzkzQjoyNEU3OjFFM0ZDMUE6MUVBMjg2Rjo2NDkwQzhFMSIsInZpc2l0b3JfaWQiOiI4MzM5ODQ4NTQ3OTMzODcwMjk0IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="602a7b51e14c51455e795295e035fbf9c5f21e879f6b81e863976087c8edd89e" data-turbo-transient="true" />
 
 
-    <meta name="hovercard-subject-tag" content="repository:641942363" data-turbo-transient>
+    <meta name="hovercard-subject-tag" content="repository:342645914" data-turbo-transient>
 
 
   <meta name="github-keyboard-shortcuts" content="repository,source-code,file-tree" data-turbo-transient="true" />
@@ -131,16 +131,16 @@
 
     <meta name="viewport" content="width=device-width">
     
-      <meta name="description" content="Contribute to horo053/qa_guru_12_lesson development by creating an account on GitHub.">
+      <meta name="description" content="Contribute to autotests-cloud/qa_guru_4_9_telegram development by creating an account on GitHub.">
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/feb65dfd7fcf91d42216975d8dcb8ab3551aee173d38dc0c731a1d330cb27d09/horo053/qa_guru_12_lesson" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="qa_guru_12_lesson/allure-piechart-telegram-2.0.5.jar at main · horo053/qa_guru_12_lesson" /><meta name="twitter:description" content="Contribute to horo053/qa_guru_12_lesson development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/feb65dfd7fcf91d42216975d8dcb8ab3551aee173d38dc0c731a1d330cb27d09/horo053/qa_guru_12_lesson" /><meta property="og:image:alt" content="Contribute to horo053/qa_guru_12_lesson development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="qa_guru_12_lesson/allure-piechart-telegram-2.0.5.jar at main · horo053/qa_guru_12_lesson" /><meta property="og:url" content="https://github.com/horo053/qa_guru_12_lesson" /><meta property="og:description" content="Contribute to horo053/qa_guru_12_lesson development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/46a9f2385c247fe2df67bced04fe723cfaf4f0fd0c397b497c9dd32284763495/autotests-cloud/qa_guru_4_9_telegram" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="qa_guru_4_9_telegram/allure-piechart-telegram-2.0.5.jar at master · autotests-cloud/qa_guru_4_9_telegram" /><meta name="twitter:description" content="Contribute to autotests-cloud/qa_guru_4_9_telegram development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/46a9f2385c247fe2df67bced04fe723cfaf4f0fd0c397b497c9dd32284763495/autotests-cloud/qa_guru_4_9_telegram" /><meta property="og:image:alt" content="Contribute to autotests-cloud/qa_guru_4_9_telegram development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="qa_guru_4_9_telegram/allure-piechart-telegram-2.0.5.jar at master · autotests-cloud/qa_guru_4_9_telegram" /><meta property="og:url" content="https://github.com/autotests-cloud/qa_guru_4_9_telegram" /><meta property="og:description" content="Contribute to autotests-cloud/qa_guru_4_9_telegram development by creating an account on GitHub." />
       
 
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/101883708/ws?session=eyJ2IjoiVjMiLCJ1IjoxMDE4ODM3MDgsInMiOjExNDI3Mjg0NzAsImMiOjE0NzE1OTk3MTAsInQiOjE2ODcyMDQwMTZ9--ccca2a6ec20440ff7b640838e3170137eecc5ad1ee00427d516c5607928d79b8" data-refresh-url="/_alive" data-session-id="ce97f3e7cd02cbbd238ba5b968be81945e5474eec3b7617fa3f061cf0d2254a1">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/101883708/ws?session=eyJ2IjoiVjMiLCJ1IjoxMDE4ODM3MDgsInMiOjExNDI3Mjg0NzAsImMiOjQyNjY2MjA3NDIsInQiOjE2ODcyMTAyMTN9--9c211b7f9e3b38d0dd97f3f8375c18e09947c916556adca36d300a7dc1c199a0" data-refresh-url="/_alive" data-session-id="ce97f3e7cd02cbbd238ba5b968be81945e5474eec3b7617fa3f061cf0d2254a1">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-71e98f781d79.js">
 
 
@@ -154,19 +154,19 @@
     <meta name="enabled-features" content="TURBO_EXPERIMENT_RISKY,IMAGE_METRIC_TRACKING,GEOJSON_AZURE_MAPS">
 
 
-  <meta http-equiv="x-pjax-version" content="0622956135d6295b07004fcb7aa2eede9120a9cd6aca628d28264b7172e52010" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-version" content="48b53181ab3b28ecb9d929f7dc7901ea07ef6cfd1dd2f11dd7bf4ff737fefa7b" data-turbo-track="reload">
   <meta http-equiv="x-pjax-csp-version" content="0db263f9a873141d8256f783c35f244c06d490aacc3b680f99794dd8fd59fb59" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-css-version" content="018d418015fb546e42e98b2e98d6ff391647149dc2111b3d325e86e9d6d0c3ac" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-js-version" content="e2a61c002dcd4fe51f949731e10394a4178e8dd620205f9c4f5dc5024f74ff97" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-css-version" content="fb53b8a6770a8540b1b04cdae87c5d8a5ffa08ca1e1a0f8bdb4250513cd14421" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-js-version" content="7c21b394d701571b13a710689b40fc1030a2ce0f4b323330234f88c3b6ad1ae9" data-turbo-track="reload">
 
   <meta name="turbo-cache-control" content="no-preview" data-turbo-transient="">
 
       <meta name="turbo-cache-control" content="no-cache" data-turbo-transient>
     <meta data-hydrostats="publish">
 
-  <meta name="go-import" content="github.com/horo053/qa_guru_12_lesson git https://github.com/horo053/qa_guru_12_lesson.git">
+  <meta name="go-import" content="github.com/autotests-cloud/qa_guru_4_9_telegram git https://github.com/autotests-cloud/qa_guru_4_9_telegram.git">
 
-  <meta name="octolytics-dimension-user_id" content="57588188" /><meta name="octolytics-dimension-user_login" content="horo053" /><meta name="octolytics-dimension-repository_id" content="641942363" /><meta name="octolytics-dimension-repository_nwo" content="horo053/qa_guru_12_lesson" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="641942363" /><meta name="octolytics-dimension-repository_network_root_nwo" content="horo053/qa_guru_12_lesson" />
+  <meta name="octolytics-dimension-user_id" content="62397955" /><meta name="octolytics-dimension-user_login" content="autotests-cloud" /><meta name="octolytics-dimension-repository_id" content="342645914" /><meta name="octolytics-dimension-repository_nwo" content="autotests-cloud/qa_guru_4_9_telegram" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="342645914" /><meta name="octolytics-dimension-repository_network_root_nwo" content="autotests-cloud/qa_guru_4_9_telegram" />
 
 
 
@@ -215,17 +215,17 @@
           <deferred-side-panel data-url="/_side-panels/global">
   <include-fragment data-target="deferred-side-panel.fragment">
       
-  <button aria-label="Open global navigation menu" data-action="click:deferred-side-panel#loadPanel click:deferred-side-panel#panelOpened" data-show-dialog-id="dialog-cba2d8c8-c494-4be1-91be-2ec75afcab78" id="dialog-show-dialog-cba2d8c8-c494-4be1-91be-2ec75afcab78" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-bg-transparent p-0 color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-three-bars Button-visual">
+  <button aria-label="Open global navigation menu" data-action="click:deferred-side-panel#loadPanel click:deferred-side-panel#panelOpened" data-show-dialog-id="dialog-d0de407f-2388-4d76-9091-8e6090eccb7b" id="dialog-show-dialog-d0de407f-2388-4d76-9091-8e6090eccb7b" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-bg-transparent p-0 color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-three-bars Button-visual">
     <path d="M1 2.75A.75.75 0 0 1 1.75 2h12.5a.75.75 0 0 1 0 1.5H1.75A.75.75 0 0 1 1 2.75Zm0 5A.75.75 0 0 1 1.75 7h12.5a.75.75 0 0 1 0 1.5H1.75A.75.75 0 0 1 1 7.75ZM1.75 12h12.5a.75.75 0 0 1 0 1.5H1.75a.75.75 0 0 1 0-1.5Z"></path>
 </svg>
 </button>  
 
 <div class="Overlay--hidden Overlay-backdrop--side Overlay-backdrop--placement-left" data-modal-dialog-overlay>
-  <modal-dialog data-target="deferred-side-panel.panel" role="dialog" id="dialog-cba2d8c8-c494-4be1-91be-2ec75afcab78" aria-modal="true" aria-disabled="true" aria-describedby="dialog-cba2d8c8-c494-4be1-91be-2ec75afcab78-title dialog-cba2d8c8-c494-4be1-91be-2ec75afcab78-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait Overlay--motion-scaleFade SidePanel">
+  <modal-dialog data-target="deferred-side-panel.panel" role="dialog" id="dialog-d0de407f-2388-4d76-9091-8e6090eccb7b" aria-modal="true" aria-disabled="true" aria-describedby="dialog-d0de407f-2388-4d76-9091-8e6090eccb7b-title dialog-d0de407f-2388-4d76-9091-8e6090eccb7b-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait Overlay--motion-scaleFade SidePanel">
     <div styles="flex-direction: row;" data-view-component="true" class="Overlay-header">
   <div class="Overlay-headerContentWrap">
     <div class="Overlay-titleWrap">
-      <h1 class="Overlay-title sr-only" id="dialog-cba2d8c8-c494-4be1-91be-2ec75afcab78-title">
+      <h1 class="Overlay-title sr-only" id="dialog-d0de407f-2388-4d76-9091-8e6090eccb7b-title">
         Global navigation
       </h1>
             <div data-view-component="true" class="d-flex">
@@ -236,7 +236,7 @@
 </div></div>
     </div>
     <div class="Overlay-actionWrap">
-      <button data-close-dialog-id="dialog-cba2d8c8-c494-4be1-91be-2ec75afcab78" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+      <button data-close-dialog-id="dialog-d0de407f-2388-4d76-9091-8e6090eccb7b" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg></button>
     </div>
@@ -250,7 +250,7 @@
           
 <li item_id="general" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a data-hotkey="g d" hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/horo053/qa_guru_12_lesson/blob/main/allure-piechart-telegram-2.0.5.jar&quot;,&quot;target&quot;:&quot;HOME&quot;,&quot;originating_url&quot;:&quot;https://github.com/horo053/qa_guru_12_lesson/blob/main/allure-piechart-telegram-2.0.5.jar&quot;,&quot;user_id&quot;:101883708}}" hydro-click-hmac="98ef36b181e1bce45498eae0a0ee4b1a835fa00eeb9cf49bb5c696a17283ab1a" id="item-0e4effc4-8d62-4209-b26e-e7f42ae09c58" href="/dashboard" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-hotkey="g d" hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/autotests-cloud/qa_guru_4_9_telegram/blob/master/allure-piechart-telegram-2.0.5.jar&quot;,&quot;target&quot;:&quot;HOME&quot;,&quot;originating_url&quot;:&quot;https://github.com/autotests-cloud/qa_guru_4_9_telegram/blob/master/allure-piechart-telegram-2.0.5.jar&quot;,&quot;user_id&quot;:101883708}}" hydro-click-hmac="ff61fae1f821964519bcc02456568ed0245fe349a2afe4e0b9d370dd5773107c" id="item-d32d392d-751d-4c53-bf6a-0001885355a3" href="/dashboard" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-home">
     <path d="M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z"></path>
@@ -268,7 +268,7 @@
           
 <li item_id="personal_info" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a data-hotkey="g i" hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/horo053/qa_guru_12_lesson/blob/main/allure-piechart-telegram-2.0.5.jar&quot;,&quot;target&quot;:&quot;ISSUES&quot;,&quot;originating_url&quot;:&quot;https://github.com/horo053/qa_guru_12_lesson/blob/main/allure-piechart-telegram-2.0.5.jar&quot;,&quot;user_id&quot;:101883708}}" hydro-click-hmac="0738085aa647f677a1142add26ff6558df3edb75fd4bca4444608b45d23aca34" id="item-7bad6903-0667-467d-a32e-e689d1bb933d" href="/issues" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-hotkey="g i" hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/autotests-cloud/qa_guru_4_9_telegram/blob/master/allure-piechart-telegram-2.0.5.jar&quot;,&quot;target&quot;:&quot;ISSUES&quot;,&quot;originating_url&quot;:&quot;https://github.com/autotests-cloud/qa_guru_4_9_telegram/blob/master/allure-piechart-telegram-2.0.5.jar&quot;,&quot;user_id&quot;:101883708}}" hydro-click-hmac="f9100bec6def2739ecc912cc8c82f9025520b8b947e828be15afa4f05c8b4355" id="item-5018cb72-c2e7-40a6-bf71-49bbb0ae8aef" href="/issues" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -286,7 +286,7 @@
           
 <li item_id="password" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a data-hotkey="g p" hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/horo053/qa_guru_12_lesson/blob/main/allure-piechart-telegram-2.0.5.jar&quot;,&quot;target&quot;:&quot;PULL_REQUESTS&quot;,&quot;originating_url&quot;:&quot;https://github.com/horo053/qa_guru_12_lesson/blob/main/allure-piechart-telegram-2.0.5.jar&quot;,&quot;user_id&quot;:101883708}}" hydro-click-hmac="c20b1654b568ed308b64ccf36a8c749f2d584ba6230c21e1adf3d92266616d2f" id="item-5646fd00-5dea-42f7-a511-11551988e266" href="/pulls" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-hotkey="g p" hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/autotests-cloud/qa_guru_4_9_telegram/blob/master/allure-piechart-telegram-2.0.5.jar&quot;,&quot;target&quot;:&quot;PULL_REQUESTS&quot;,&quot;originating_url&quot;:&quot;https://github.com/autotests-cloud/qa_guru_4_9_telegram/blob/master/allure-piechart-telegram-2.0.5.jar&quot;,&quot;user_id&quot;:101883708}}" hydro-click-hmac="aa66c7587e6917bb594a12ccf102d529711d956986858d987da82fe7d0619a88" id="item-e6207416-678a-4b00-a4bc-5d241c2074fe" href="/pulls" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -304,7 +304,7 @@
           
 <li item_id="billing" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/horo053/qa_guru_12_lesson/blob/main/allure-piechart-telegram-2.0.5.jar&quot;,&quot;target&quot;:&quot;DISCUSSIONS&quot;,&quot;originating_url&quot;:&quot;https://github.com/horo053/qa_guru_12_lesson/blob/main/allure-piechart-telegram-2.0.5.jar&quot;,&quot;user_id&quot;:101883708}}" hydro-click-hmac="312d3b9bd68a795c94faf7ecb79f84a98fcb0061efbcea17c9ddaf4bf412aed1" id="item-f2681d8b-f1a6-4787-8b16-54ab51c47c7f" href="/discussions" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/autotests-cloud/qa_guru_4_9_telegram/blob/master/allure-piechart-telegram-2.0.5.jar&quot;,&quot;target&quot;:&quot;DISCUSSIONS&quot;,&quot;originating_url&quot;:&quot;https://github.com/autotests-cloud/qa_guru_4_9_telegram/blob/master/allure-piechart-telegram-2.0.5.jar&quot;,&quot;user_id&quot;:101883708}}" hydro-click-hmac="f8b5f7b7f7ce02565ede55ce287f95ff1e7182679d195dd716456d6804cfd178" id="item-bbbaf528-029f-49a1-b860-35fc43869977" href="/discussions" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-comment-discussion">
     <path d="M1.75 1h8.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 10.25 10H7.061l-2.574 2.573A1.458 1.458 0 0 1 2 11.543V10h-.25A1.75 1.75 0 0 1 0 8.25v-5.5C0 1.784.784 1 1.75 1ZM1.5 2.75v5.5c0 .138.112.25.25.25h1a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h3.5a.25.25 0 0 0 .25-.25v-5.5a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25Zm13 2a.25.25 0 0 0-.25-.25h-.5a.75.75 0 0 1 0-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 14.25 12H14v1.543a1.458 1.458 0 0 1-2.487 1.03L9.22 12.28a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l2.22 2.22v-2.19a.75.75 0 0 1 .75-.75h1a.25.25 0 0 0 .25-.25Z"></path>
@@ -338,7 +338,7 @@
           
 <li item_id="general" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/horo053/qa_guru_12_lesson/blob/main/allure-piechart-telegram-2.0.5.jar&quot;,&quot;target&quot;:&quot;EXPLORE&quot;,&quot;originating_url&quot;:&quot;https://github.com/horo053/qa_guru_12_lesson/blob/main/allure-piechart-telegram-2.0.5.jar&quot;,&quot;user_id&quot;:101883708}}" hydro-click-hmac="19aa796cac02b60ccaa907d35dbbcf9cee7ef024ab1701ba8a83b829d1d3f543" id="item-a543e331-85ab-47e9-9a02-ec24830de699" href="/explore" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/autotests-cloud/qa_guru_4_9_telegram/blob/master/allure-piechart-telegram-2.0.5.jar&quot;,&quot;target&quot;:&quot;EXPLORE&quot;,&quot;originating_url&quot;:&quot;https://github.com/autotests-cloud/qa_guru_4_9_telegram/blob/master/allure-piechart-telegram-2.0.5.jar&quot;,&quot;user_id&quot;:101883708}}" hydro-click-hmac="856d6db81787b022928e96989d12d060403b49872d9ce4b7040e80fcee0f1c7e" id="item-06540801-f3b9-4134-b5b4-b72b153e2c0d" href="/explore" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-telescope">
     <path d="M14.184 1.143v-.001l1.422 2.464a1.75 1.75 0 0 1-.757 2.451L3.104 11.713a1.75 1.75 0 0 1-2.275-.702l-.447-.775a1.75 1.75 0 0 1 .53-2.32L11.682.573a1.748 1.748 0 0 1 2.502.57Zm-4.709 9.32h-.001l2.644 3.863a.75.75 0 1 1-1.238.848l-1.881-2.75v2.826a.75.75 0 0 1-1.5 0v-2.826l-1.881 2.75a.75.75 0 1 1-1.238-.848l2.049-2.992a.746.746 0 0 1 .293-.253l1.809-.87a.749.749 0 0 1 .944.252ZM9.436 3.92h-.001l-4.97 3.39.942 1.63 5.42-2.61Zm3.091-2.108h.001l-1.85 1.26 1.505 2.605 2.016-.97a.247.247 0 0 0 .13-.151.247.247 0 0 0-.022-.199l-1.422-2.464a.253.253 0 0 0-.161-.119.254.254 0 0 0-.197.038ZM1.756 9.157a.25.25 0 0 0-.075.33l.447.775a.25.25 0 0 0 .325.1l1.598-.769-.83-1.436-1.465 1Z"></path>
@@ -356,7 +356,7 @@
           
 <li item_id="general" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/horo053/qa_guru_12_lesson/blob/main/allure-piechart-telegram-2.0.5.jar&quot;,&quot;target&quot;:&quot;MARKETPLACE&quot;,&quot;originating_url&quot;:&quot;https://github.com/horo053/qa_guru_12_lesson/blob/main/allure-piechart-telegram-2.0.5.jar&quot;,&quot;user_id&quot;:101883708}}" hydro-click-hmac="4167c232b05af51998ad4184c85c61938afb588d175b66d8ed002d628cb925e3" id="item-119c1e44-856d-4d17-8108-26f8a42eaf7e" href="/marketplace" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/autotests-cloud/qa_guru_4_9_telegram/blob/master/allure-piechart-telegram-2.0.5.jar&quot;,&quot;target&quot;:&quot;MARKETPLACE&quot;,&quot;originating_url&quot;:&quot;https://github.com/autotests-cloud/qa_guru_4_9_telegram/blob/master/allure-piechart-telegram-2.0.5.jar&quot;,&quot;user_id&quot;:101883708}}" hydro-click-hmac="abf9119da779bb7082cb9358c9f5e3f30ef7dc7c4ef07aca64e443463acabf31" id="item-38351059-cdb2-43e7-8f17-1e08a6774ca4" href="/marketplace" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-gift">
     <path d="M2 2.75A2.75 2.75 0 0 1 4.75 0c.983 0 1.873.42 2.57 1.232.268.318.497.668.68 1.042.183-.375.411-.725.68-1.044C9.376.42 10.266 0 11.25 0a2.75 2.75 0 0 1 2.45 4h.55c.966 0 1.75.784 1.75 1.75v2c0 .698-.409 1.301-1 1.582v4.918A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V9.332C.409 9.05 0 8.448 0 7.75v-2C0 4.784.784 4 1.75 4h.55c-.192-.375-.3-.8-.3-1.25ZM7.25 9.5H2.5v4.75c0 .138.112.25.25.25h4.5Zm1.5 0v5h4.5a.25.25 0 0 0 .25-.25V9.5Zm0-4V8h5.5a.25.25 0 0 0 .25-.25v-2a.25.25 0 0 0-.25-.25Zm-7 0a.25.25 0 0 0-.25.25v2c0 .138.112.25.25.25h5.5V5.5h-5.5Zm3-4a1.25 1.25 0 0 0 0 2.5h2.309c-.233-.818-.542-1.401-.878-1.793-.43-.502-.915-.707-1.431-.707ZM8.941 4h2.309a1.25 1.25 0 0 0 0-2.5c-.516 0-1 .205-1.43.707-.337.392-.646.975-.879 1.793Z"></path>
@@ -374,7 +374,7 @@
           
 <li item_id="feedback" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-83213f35-1530-4a45-abc0-e1bee2649c5e" href="https://gh.io/navigation-update" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-b5bef5eb-1117-414b-93d8-47da2dc493ad" href="https://gh.io/navigation-update" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-comment-discussion">
     <path d="M1.75 1h8.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 10.25 10H7.061l-2.574 2.573A1.458 1.458 0 0 1 2 11.543V10h-.25A1.75 1.75 0 0 1 0 8.25v-5.5C0 1.784.784 1 1.75 1ZM1.5 2.75v5.5c0 .138.112.25.25.25h1a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h3.5a.25.25 0 0 0 .25-.25v-5.5a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25Zm13 2a.25.25 0 0 0-.25-.25h-.5a.75.75 0 0 1 0-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 14.25 12H14v1.543a1.458 1.458 0 0 1-2.487 1.03L9.22 12.28a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l2.22 2.22v-2.19a.75.75 0 0 1 .75-.75h1a.25.25 0 0 0 .25-.25Z"></path>
@@ -425,15 +425,15 @@
 
           <div class="AppHeader-context" >
   <div class="AppHeader-context-compact">
-        <button aria-expanded="false" aria-haspopup="dialog" aria-label="Page context: horo053 / qa_guru_12_lesson" id="dialog-show-context-region-dialog" data-show-dialog-id="context-region-dialog" type="button" data-view-component="true" class="AppHeader-context-compact-trigger Truncate Button--secondary Button--medium Button box-shadow-none">    <span class="Button-content">
+        <button aria-expanded="false" aria-haspopup="dialog" aria-label="Page context: autotests-cloud / qa_guru_4_9_telegram" id="dialog-show-context-region-dialog" data-show-dialog-id="context-region-dialog" type="button" data-view-component="true" class="AppHeader-context-compact-trigger Truncate Button--secondary Button--medium Button box-shadow-none">    <span class="Button-content">
       <span class="Button-label"><span class="AppHeader-context-compact-lead">
-                <span class="AppHeader-context-compact-parentItem">horo053</span>
+                <span class="AppHeader-context-compact-parentItem">autotests-cloud</span>
                 <span class="AppHeader-context-compact-separator">&nbsp;/</span>
 
             </span>
 
             <strong class="AppHeader-context-compact-mainItem d-flex flex-items-center Truncate" >
-  <span class="Truncate-text ">qa_guru_12_lesson</span>
+  <span class="Truncate-text ">qa_guru_4_9_telegram</span>
 
 </strong></span>
     </span>
@@ -457,17 +457,17 @@
 </div>
       <div data-view-component="true" class="Overlay-body">          <ul role="list" class="list-style-none" >
     <li>
-      <a data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;context_region_crumb&quot;,&quot;label&quot;:&quot;horo053&quot;,&quot;screen_size&quot;:&quot;compact&quot;}" href="/horo053" data-view-component="true" class="Link--primary Truncate d-flex flex-items-center py-1">
+      <a data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;context_region_crumb&quot;,&quot;label&quot;:&quot;autotests-cloud&quot;,&quot;screen_size&quot;:&quot;compact&quot;}" href="/autotests-cloud" data-view-component="true" class="Link--primary Truncate d-flex flex-items-center py-1">
         <span class="AppHeader-context-item-label Truncate-text ">
-          horo053
+          autotests-cloud
         </span>
 
 </a>
     </li>
     <li>
-      <a data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;context_region_crumb&quot;,&quot;label&quot;:&quot;qa_guru_12_lesson&quot;,&quot;screen_size&quot;:&quot;compact&quot;}" href="/horo053/qa_guru_12_lesson" data-view-component="true" class="Link--primary Truncate d-flex flex-items-center py-1">
+      <a data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;context_region_crumb&quot;,&quot;label&quot;:&quot;qa_guru_4_9_telegram&quot;,&quot;screen_size&quot;:&quot;compact&quot;}" href="/autotests-cloud/qa_guru_4_9_telegram" data-view-component="true" class="Link--primary Truncate d-flex flex-items-center py-1">
         <span class="AppHeader-context-item-label Truncate-text ">
-          qa_guru_12_lesson
+          qa_guru_4_9_telegram
         </span>
 
 </a>
@@ -483,18 +483,18 @@
     <nav role="navigation" aria-label="Page context">
       <ul role="list" class="list-style-none" >
     <li>
-      <a data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;context_region_crumb&quot;,&quot;label&quot;:&quot;horo053&quot;,&quot;screen_size&quot;:&quot;full&quot;}" data-hovercard-type="user" data-hovercard-url="/users/horo053/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/horo053" data-view-component="true" class="AppHeader-context-item">
+      <a data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;context_region_crumb&quot;,&quot;label&quot;:&quot;autotests-cloud&quot;,&quot;screen_size&quot;:&quot;full&quot;}" data-hovercard-type="organization" data-hovercard-url="/orgs/autotests-cloud/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/autotests-cloud" data-view-component="true" class="AppHeader-context-item">
         <span class="AppHeader-context-item-label  ">
-          horo053
+          autotests-cloud
         </span>
 
 </a>
         <span class="AppHeader-context-item-separator">/</span>
     </li>
     <li>
-      <a data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;context_region_crumb&quot;,&quot;label&quot;:&quot;qa_guru_12_lesson&quot;,&quot;screen_size&quot;:&quot;full&quot;}" href="/horo053/qa_guru_12_lesson" data-view-component="true" class="AppHeader-context-item">
+      <a data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;context_region_crumb&quot;,&quot;label&quot;:&quot;qa_guru_4_9_telegram&quot;,&quot;screen_size&quot;:&quot;full&quot;}" href="/autotests-cloud/qa_guru_4_9_telegram" data-view-component="true" class="AppHeader-context-item">
         <span class="AppHeader-context-item-label  ">
-          qa_guru_12_lesson
+          qa_guru_4_9_telegram
         </span>
 
 </a>
@@ -583,7 +583,7 @@
 </svg>
 </template>
 
-<qbsearch-input class="search-input" data-scope="repo:horo053/qa_guru_12_lesson" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="ofv-USGzcclv4q4oSQQJHaIcRNvHehGkhlQzCNHfKjDBLlCVvCce4vJqgIB_P4Yt303LltwyOZ1LY0Vt6PxgbQ" data-max-custom-scopes="10" data-header-redesign-enabled="true" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="horo053/qa_guru_12_lesson" data-current-org="" data-current-owner="horo053">
+<qbsearch-input class="search-input" data-scope="repo:autotests-cloud/qa_guru_4_9_telegram" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="Dq2ST-vAALye0Ksv4kG43QYtd5CZDZxGQuTeoB5Cw_tueDyLdlRvlwNYhYfUejfte3z43YJFtH-P06jFJ2GJpg" data-max-custom-scopes="10" data-header-redesign-enabled="true" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="autotests-cloud/qa_guru_4_9_telegram" data-current-org="autotests-cloud" data-current-owner="">
   <div
     class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center height-auto color-bg-transparent border-0 color-fg-subtle mx-0"
     data-action="click:qbsearch-input#searchInputContainerClicked"
@@ -632,7 +632,7 @@
 </svg>
       </button>
 
-      <tool-tip id="tooltip-6430619b-30b1-4f84-a6de-ddf41ae71508" for="AppHeader-commandPalette-button" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Command palette</tool-tip>
+      <tool-tip id="tooltip-22ef0ba5-d1ab-43e6-b94b-721f598796c7" for="AppHeader-commandPalette-button" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Command palette</tool-tip>
   </div>
 </div>
 
@@ -812,7 +812,7 @@
     </div>
   </div>
 </div>
-      <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Uhlx8070xeTfmQ_HwZFcsni0ULm1tLvGzDyA1zHRwGFpW2aQ2fvM9c8hfduer9C8NoJgQ6wHzfiE1xJ5MLPnng" />
+      <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="flaVe8pEX1rAF_nDuwDyz6ajwryr2udrTIbYuUDIlqhFFIIYXUtWS9Cvi9_kPn7B6JXyRrJpkVUEbUoXQaqxVw" />
           <p>We read every piece of feedback, and take your input very seriously.</p>
           <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
           <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
@@ -847,7 +847,7 @@
       <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
         <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="tpYLGMPQLgRYnuAp4oKbpaBxyPxzRDg-ZukvPpgneMfpHDv6dbT1Pqs2uxgG_VvzDJ_5Zwt5zOWoHHTyH7k7qw" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="GUILoztsw2ZyIJO7BEcU-h5_Nroa9kRqDLmMWeAMJX5GyDtBjQgYXIGIyIrgONSsspEHIWLLsLHCTNeVZ5JmEg" />
           <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
           <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
@@ -865,7 +865,7 @@
                 placeholder="github-ruby"
                 required
                 maxlength="50">
-              <input type="hidden" value="n5cA2e4iLbvhrEZQx7y2Q0Wmbq1Ahl4m7yGD3fYwrnrTDFCgTcwJUGtXdqS9saVufepBYSWr8GbrBPcI5I1ewQ" data-csrf="true" />
+              <input type="hidden" value="270kVQGfZ_hzsVY2NBNt5snZnXTDwbM69hJXdT6vh3yXJnQsonFDE_lKZsJOHn7L8ZWyuKbsHXryNyOgLBJ3xw" data-csrf="true" />
             </auto-check>
           </div>
 
@@ -901,7 +901,7 @@
 </modal-dialog></div>
     </custom-scopes>
   </div>
-</qbsearch-input><input type="hidden" value="UZ-sijDFFWvxaKWUzkgz7mUz1Jtr8uC2cPUMIM9ulhxlXQZmIt0J0q6uTL21l9pMh25aqhoDxKFwLPy2KiBVGQ" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+</qbsearch-input><input type="hidden" value="Tiynag2Apoufn4u5AOoGS7ka4r8YSugqZ3UYFJI_Lgl67g2GH5i6MsBZYpB7Ne_pW0dsjmm7zD1nrOiCd3HtDA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
 
           </div>
 
@@ -918,7 +918,7 @@
     <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
 </svg></span>
     </span>
-</button>  <tool-tip id="tooltip-2fc8a0e2-bf4b-4b39-ab80-6d37a70e3278" for="global-create-menu-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Create new...</tool-tip>
+</button>  <tool-tip id="tooltip-fdee5dae-7a4c-4a47-9d91-23061b1951b7" for="global-create-menu-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Create new...</tool-tip>
 </div>
 
 <anchored-position id="global-create-menu-overlay" anchor="global-create-menu-button" align="end" side="outside-bottom" anchor-offset="normal" popover="auto" aria-label="Menu" data-view-component="true" class="Overlay Overlay--size-auto">
@@ -928,7 +928,7 @@
   <ul aria-labelledby="global-create-menu-button" id="global-create-menu-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
       <li data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;add_dropdown&quot;,&quot;label&quot;:&quot;new repository&quot;}" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a href="/new" tabindex="-1" id="item-1d95243f-48b8-4c69-b1c0-998f701b86fd" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a href="/new" tabindex="-1" id="item-d6d141bf-4569-4103-a195-49156b5fef3a" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo">
     <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
@@ -944,7 +944,7 @@
 </li>
       <li data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;add_dropdown&quot;,&quot;label&quot;:&quot;import repository&quot;}" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a href="/new/import" tabindex="-1" id="item-a5415065-99c4-4761-874b-5e8113383c0d" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a href="/new/import" tabindex="-1" id="item-cdfcc8c1-cbeb-441a-8916-d540e1ce7261" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-push">
     <path d="M1 2.5A2.5 2.5 0 0 1 3.5 0h8.75a.75.75 0 0 1 .75.75v3.5a.75.75 0 0 1-1.5 0V1.5h-8a1 1 0 0 0-1 1v6.708A2.493 2.493 0 0 1 3.5 9h3.25a.75.75 0 0 1 0 1.5H3.5a1 1 0 0 0 0 2h5.75a.75.75 0 0 1 0 1.5H3.5A2.5 2.5 0 0 1 1 11.5Zm13.23 7.79h-.001l-1.224-1.224v6.184a.75.75 0 0 1-1.5 0V9.066L10.28 10.29a.75.75 0 0 1-1.06-1.061l2.505-2.504a.75.75 0 0 1 1.06 0L15.29 9.23a.751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018Z"></path>
@@ -961,7 +961,7 @@
       <li role="presentation" aria-hidden="true" data-view-component="true" class="ActionList-sectionDivider"></li>
       <li data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;add_dropdown&quot;,&quot;label&quot;:&quot;new codespace&quot;}" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a href="/codespaces/new" tabindex="-1" id="item-8d697b04-b20e-43da-bb3b-2bd86f53913e" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a href="/codespaces/new" tabindex="-1" id="item-5b2844fa-5648-469f-baa7-03d0af6aca1b" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-codespaces">
     <path d="M0 11.25c0-.966.784-1.75 1.75-1.75h12.5c.966 0 1.75.784 1.75 1.75v3A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25Zm2-9.5C2 .784 2.784 0 3.75 0h8.5C13.216 0 14 .784 14 1.75v5a1.75 1.75 0 0 1-1.75 1.75h-8.5A1.75 1.75 0 0 1 2 6.75Zm1.75-.25a.25.25 0 0 0-.25.25v5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-5a.25.25 0 0 0-.25-.25Zm-2 9.5a.25.25 0 0 0-.25.25v3c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25v-3a.25.25 0 0 0-.25-.25Z"></path><path d="M7 12.75a.75.75 0 0 1 .75-.75h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1-.75-.75Zm-4 0a.75.75 0 0 1 .75-.75h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1-.75-.75Z"></path>
@@ -977,7 +977,7 @@
 </li>
       <li data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;add_dropdown&quot;,&quot;label&quot;:&quot;new gist&quot;}" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a href="https://gist.github.com/" tabindex="-1" id="item-85fccd4a-cc83-4a12-856f-ec759a6105e6" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a href="https://gist.github.com/" tabindex="-1" id="item-7352f6b3-b07f-45be-9554-d6d1930e724f" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -994,7 +994,7 @@
       <li role="presentation" aria-hidden="true" data-view-component="true" class="ActionList-sectionDivider"></li>
       <li data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;add_dropdown&quot;,&quot;label&quot;:&quot;new organization&quot;}" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a href="/account/organizations/new" tabindex="-1" id="item-079ce8f3-7223-4dab-84f0-83448ef45110" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a href="/account/organizations/new" tabindex="-1" id="item-95ddd37d-7274-4a6e-826e-ea09f31954ed" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-organization">
     <path d="M1.75 16A1.75 1.75 0 0 1 0 14.25V1.75C0 .784.784 0 1.75 0h8.5C11.216 0 12 .784 12 1.75v12.5c0 .085-.006.168-.018.25h2.268a.25.25 0 0 0 .25-.25V8.285a.25.25 0 0 0-.111-.208l-1.055-.703a.749.749 0 1 1 .832-1.248l1.055.703c.487.325.779.871.779 1.456v5.965A1.75 1.75 0 0 1 14.25 16h-3.5a.766.766 0 0 1-.197-.026c-.099.017-.2.026-.303.026h-3a.75.75 0 0 1-.75-.75V14h-1v1.25a.75.75 0 0 1-.75.75Zm-.25-1.75c0 .138.112.25.25.25H4v-1.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 .75.75v1.25h2.25a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25ZM3.75 6h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 3.75A.75.75 0 0 1 3.75 3h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 3.75Zm4 3A.75.75 0 0 1 7.75 6h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 7 6.75ZM7.75 3h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 9.75A.75.75 0 0 1 3.75 9h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 9.75ZM7.75 9h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5Z"></path>
@@ -1015,23 +1015,23 @@
 </action-menu>
 
           <div data-view-component="true" class="Button-withTooltip">
-  <a href="/issues" id="icon-button-01f538f8-3b77-4830-80e3-6025eaa34028" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened Button-visual">
+  <a href="/issues" id="icon-button-41f49808-e434-464d-b120-80014d965f66" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened Button-visual">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
 </svg>
-</a>  <tool-tip id="tooltip-8ce54420-09b1-49ef-8ff2-34aa8c1b3843" for="icon-button-01f538f8-3b77-4830-80e3-6025eaa34028" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Issues</tool-tip>
+</a>  <tool-tip id="tooltip-887d22c3-97b6-4b7e-bbc5-e3993a136920" for="icon-button-41f49808-e434-464d-b120-80014d965f66" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Issues</tool-tip>
 </div>
           <div data-view-component="true" class="Button-withTooltip">
-  <a href="/pulls" id="icon-button-39731b2a-ebec-439d-aef6-3edce36344eb" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request Button-visual">
+  <a href="/pulls" id="icon-button-ed2c3fc8-beb5-4c75-8c5b-ef8d7968ba6a" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request Button-visual">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
 </svg>
-</a>  <tool-tip id="tooltip-3e4d63cf-e245-4663-b34e-e1d0104bb06b" for="icon-button-39731b2a-ebec-439d-aef6-3edce36344eb" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Pull requests</tool-tip>
+</a>  <tool-tip id="tooltip-e45b2e15-85bf-4967-a4aa-cd3b83721f0f" for="icon-button-ed2c3fc8-beb5-4c75-8c5b-ef8d7968ba6a" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Pull requests</tool-tip>
 </div>
         </div>
 
         <div class="mr-0">
           
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTAxODgzNzA4IiwidCI6MTY4NzIwNDAxN30=--8f3e41ef58983cf4e36dc7d18ca8f2d77531aa7e00825ee25cd2f1cd3955fc78" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-header-redesign-enabled="true" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTAxODgzNzA4IiwidCI6MTY4NzIxMDIxM30=--ac228f741603941a7bdb5c5b435d0dd538ac81c90ff6deff63e3ab83b9902f50" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-header-redesign-enabled="true" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="AppHeader-button"
 
@@ -1054,27 +1054,27 @@
 </svg>
   </a>
 
-    <tool-tip data-target="notification-indicator.tooltip" id="tooltip-15776ccb-a96d-459f-8704-93d637079e83" for="AppHeader-notifications-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Notifications</tool-tip>
+    <tool-tip data-target="notification-indicator.tooltip" id="tooltip-7b519e50-d859-45bc-814c-4e77c0ef1625" for="AppHeader-notifications-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Notifications</tool-tip>
 </notification-indicator>
         </div>
 
         
 
         <div class="AppHeader-user">
-          <deferred-side-panel data-url="/_side-panels/user?memex_enabled=true&amp;repository=qa_guru_12_lesson&amp;user=mxchgeCode&amp;user_can_create_organizations=true&amp;user_id=101883708">
+          <deferred-side-panel data-url="/_side-panels/user?memex_enabled=true&amp;repository=qa_guru_4_9_telegram&amp;user=mxchgeCode&amp;user_can_create_organizations=true&amp;user_id=101883708">
   <include-fragment data-target="deferred-side-panel.fragment">
       <user-drawer-side-panel>
-      <button aria-label="Open user account menu" data-action="click:deferred-side-panel#loadPanel click:deferred-side-panel#panelOpened" data-show-dialog-id="dialog-5906afeb-014a-4a66-a0d6-dfb03f470436" id="dialog-show-dialog-5906afeb-014a-4a66-a0d6-dfb03f470436" type="button" data-view-component="true" class="AppHeader-logo Button--invisible Button--medium Button Button--invisible-noVisuals color-bg-transparent p-0">    <span class="Button-content">
+      <button aria-label="Open user account menu" data-action="click:deferred-side-panel#loadPanel click:deferred-side-panel#panelOpened" data-show-dialog-id="dialog-40adcb47-1f05-4de9-8a0c-404bfb56dd22" id="dialog-show-dialog-40adcb47-1f05-4de9-8a0c-404bfb56dd22" type="button" data-view-component="true" class="AppHeader-logo Button--invisible Button--medium Button Button--invisible-noVisuals color-bg-transparent p-0">    <span class="Button-content">
       <span class="Button-label"><img src="https://avatars.githubusercontent.com/u/101883708?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle" /></span>
     </span>
 </button>  
 
 <div class="Overlay--hidden Overlay-backdrop--side Overlay-backdrop--placement-right" data-modal-dialog-overlay>
-  <modal-dialog data-target="deferred-side-panel.panel" role="dialog" id="dialog-5906afeb-014a-4a66-a0d6-dfb03f470436" aria-modal="true" aria-disabled="true" aria-describedby="dialog-5906afeb-014a-4a66-a0d6-dfb03f470436-title dialog-5906afeb-014a-4a66-a0d6-dfb03f470436-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait Overlay--motion-scaleFade SidePanel">
+  <modal-dialog data-target="deferred-side-panel.panel" role="dialog" id="dialog-40adcb47-1f05-4de9-8a0c-404bfb56dd22" aria-modal="true" aria-disabled="true" aria-describedby="dialog-40adcb47-1f05-4de9-8a0c-404bfb56dd22-title dialog-40adcb47-1f05-4de9-8a0c-404bfb56dd22-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait Overlay--motion-scaleFade SidePanel">
     <div styles="flex-direction: row;" data-view-component="true" class="Overlay-header">
   <div class="Overlay-headerContentWrap">
     <div class="Overlay-titleWrap">
-      <h1 class="Overlay-title sr-only" id="dialog-5906afeb-014a-4a66-a0d6-dfb03f470436-title">
+      <h1 class="Overlay-title sr-only" id="dialog-40adcb47-1f05-4de9-8a0c-404bfb56dd22-title">
         Account menu
       </h1>
             <div data-view-component="true" class="d-flex">
@@ -1090,7 +1090,7 @@
 </div>
     </div>
     <div class="Overlay-actionWrap">
-      <button data-close-dialog-id="dialog-5906afeb-014a-4a66-a0d6-dfb03f470436" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+      <button data-close-dialog-id="dialog-40adcb47-1f05-4de9-8a0c-404bfb56dd22" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg></button>
     </div>
@@ -1104,7 +1104,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <button id="item-48ef3425-8c09-4371-b24b-380f522eaccd" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <button id="item-a5b95df2-80b2-493f-89bc-4da440602a01" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <span data-view-component="true" class="d-flex flex-items-center">    <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
@@ -1131,7 +1131,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-dc739d7a-d616-44b0-84ae-1c7b176404c2" href="https://github.com/mxchgeCode" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-61e709ac-889a-4330-95bf-4871d8c7d232" href="https://github.com/mxchgeCode" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-person">
     <path d="M10.561 8.073a6.005 6.005 0 0 1 3.432 5.142.75.75 0 1 1-1.498.07 4.5 4.5 0 0 0-8.99 0 .75.75 0 0 1-1.498-.07 6.004 6.004 0 0 1 3.431-5.142 3.999 3.999 0 1 1 5.123 0ZM10.5 5a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"></path>
@@ -1151,7 +1151,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-7394ebdc-f06d-457d-bb42-bc5be4bcee1c" href="/mxchgeCode?tab=repositories" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-39404689-a601-417c-86dc-9c25c1b7b801" href="/mxchgeCode?tab=repositories" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo">
     <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
@@ -1169,7 +1169,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-9d4989c2-f9d4-4881-9375-aa811de0bd61" href="/mxchgeCode?tab=projects" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-7c051159-7ea8-4ef7-b62f-52675b537511" href="/mxchgeCode?tab=projects" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-project">
     <path d="M1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25V1.75C0 .784.784 0 1.75 0ZM1.5 1.75v12.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25ZM11.75 3a.75.75 0 0 1 .75.75v7.5a.75.75 0 0 1-1.5 0v-7.5a.75.75 0 0 1 .75-.75Zm-8.25.75a.75.75 0 0 1 1.5 0v5.5a.75.75 0 0 1-1.5 0ZM8 3a.75.75 0 0 1 .75.75v3.5a.75.75 0 0 1-1.5 0v-3.5A.75.75 0 0 1 8 3Z"></path>
@@ -1187,7 +1187,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-68d973ea-edf6-4238-9850-217484d447a4" href="/codespaces" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-d9a63fbf-18bd-4e0a-a364-e48d73e1562d" href="/codespaces" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-codespaces">
     <path d="M0 11.25c0-.966.784-1.75 1.75-1.75h12.5c.966 0 1.75.784 1.75 1.75v3A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25Zm2-9.5C2 .784 2.784 0 3.75 0h8.5C13.216 0 14 .784 14 1.75v5a1.75 1.75 0 0 1-1.75 1.75h-8.5A1.75 1.75 0 0 1 2 6.75Zm1.75-.25a.25.25 0 0 0-.25.25v5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-5a.25.25 0 0 0-.25-.25Zm-2 9.5a.25.25 0 0 0-.25.25v3c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25v-3a.25.25 0 0 0-.25-.25Z"></path><path d="M7 12.75a.75.75 0 0 1 .75-.75h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1-.75-.75Zm-4 0a.75.75 0 0 1 .75-.75h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1-.75-.75Z"></path>
@@ -1205,7 +1205,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <button id="item-7174355c-8bdc-4cbc-9065-c8b5483db02b" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <button id="item-95ca814c-65ea-440a-acf7-41548bccb59c" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <span data-view-component="true" class="d-flex flex-items-center">    <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
@@ -1230,7 +1230,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-76fd105b-e444-4b47-825d-4c5eed8ea1dd" href="/mxchgeCode?tab=stars" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-b31bb88a-b702-46f2-8889-b3ffd40c6466" href="/mxchgeCode?tab=stars" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
@@ -1248,7 +1248,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-8df85188-f88f-427e-9f0c-d42987b4cf8f" href="/sponsors/accounts" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-49b3816b-ff17-4862-b896-add042ec54b6" href="/sponsors/accounts" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-heart">
     <path d="m8 14.25.345.666a.75.75 0 0 1-.69 0l-.008-.004-.018-.01a7.152 7.152 0 0 1-.31-.17 22.055 22.055 0 0 1-3.434-2.414C2.045 10.731 0 8.35 0 5.5 0 2.836 2.086 1 4.25 1 5.797 1 7.153 1.802 8 3.02 8.847 1.802 10.203 1 11.75 1 13.914 1 16 2.836 16 5.5c0 2.85-2.045 5.231-3.885 6.818a22.066 22.066 0 0 1-3.744 2.584l-.018.01-.006.003h-.002ZM4.25 2.5c-1.336 0-2.75 1.164-2.75 3 0 2.15 1.58 4.144 3.365 5.682A20.58 20.58 0 0 0 8 13.393a20.58 20.58 0 0 0 3.135-2.211C12.92 9.644 14.5 7.65 14.5 5.5c0-1.836-1.414-3-2.75-3-1.373 0-2.609.986-3.029 2.456a.749.749 0 0 1-1.442 0C6.859 3.486 5.623 2.5 4.25 2.5Z"></path>
@@ -1266,7 +1266,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-e84cde27-1078-461e-a1d6-878ddb9f12f6" href="https://gist.github.com/mine" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-ad2d33fb-9d4b-4865-89b7-07e09240f54f" href="https://gist.github.com/mine" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code-square">
     <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25Zm7.47 3.97a.75.75 0 0 1 1.06 0l2 2a.75.75 0 0 1 0 1.06l-2 2a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L10.69 8 9.22 6.53a.75.75 0 0 1 0-1.06ZM6.78 6.53 5.31 8l1.47 1.47a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215l-2-2a.75.75 0 0 1 0-1.06l2-2a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -1286,7 +1286,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <button id="item-42245cba-678b-4cd5-a1f8-33476f810b01" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <button id="item-6c02237c-b55a-439c-b5a6-e1cb06eefa7b" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <span data-view-component="true" class="d-flex flex-items-center">    <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
@@ -1311,7 +1311,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <button id="item-0d1fdb13-edad-41ef-8ed0-c3c0f9d2b209" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <button id="item-17977e8e-532d-4e62-abb8-66d24681d0ac" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <span data-view-component="true" class="d-flex flex-items-center">    <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
@@ -1336,7 +1336,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <button id="item-1c52b241-0b7c-4be6-a0a4-28bd2755dac8" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <button id="item-c210003b-0183-4991-84b1-ebe796dc213a" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <span data-view-component="true" class="d-flex flex-items-center">    <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
@@ -1361,7 +1361,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-45eeed6b-381d-42e0-92a9-8f951eecffa9" href="/settings/profile" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-ed246cf9-1b42-4972-96c1-0e703cc8a4cd" href="/settings/profile" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-gear">
     <path d="M8 0a8.2 8.2 0 0 1 .701.031C9.444.095 9.99.645 10.16 1.29l.288 1.107c.018.066.079.158.212.224.231.114.454.243.668.386.123.082.233.09.299.071l1.103-.303c.644-.176 1.392.021 1.82.63.27.385.506.792.704 1.218.315.675.111 1.422-.364 1.891l-.814.806c-.049.048-.098.147-.088.294.016.257.016.515 0 .772-.01.147.038.246.088.294l.814.806c.475.469.679 1.216.364 1.891a7.977 7.977 0 0 1-.704 1.217c-.428.61-1.176.807-1.82.63l-1.102-.302c-.067-.019-.177-.011-.3.071a5.909 5.909 0 0 1-.668.386c-.133.066-.194.158-.211.224l-.29 1.106c-.168.646-.715 1.196-1.458 1.26a8.006 8.006 0 0 1-1.402 0c-.743-.064-1.289-.614-1.458-1.26l-.289-1.106c-.018-.066-.079-.158-.212-.224a5.738 5.738 0 0 1-.668-.386c-.123-.082-.233-.09-.299-.071l-1.103.303c-.644.176-1.392-.021-1.82-.63a8.12 8.12 0 0 1-.704-1.218c-.315-.675-.111-1.422.363-1.891l.815-.806c.05-.048.098-.147.088-.294a6.214 6.214 0 0 1 0-.772c.01-.147-.038-.246-.088-.294l-.815-.806C.635 6.045.431 5.298.746 4.623a7.92 7.92 0 0 1 .704-1.217c.428-.61 1.176-.807 1.82-.63l1.102.302c.067.019.177.011.3-.071.214-.143.437-.272.668-.386.133-.066.194-.158.211-.224l.29-1.106C6.009.645 6.556.095 7.299.03 7.53.01 7.764 0 8 0Zm-.571 1.525c-.036.003-.108.036-.137.146l-.289 1.105c-.147.561-.549.967-.998 1.189-.173.086-.34.183-.5.29-.417.278-.97.423-1.529.27l-1.103-.303c-.109-.03-.175.016-.195.045-.22.312-.412.644-.573.99-.014.031-.021.11.059.19l.815.806c.411.406.562.957.53 1.456a4.709 4.709 0 0 0 0 .582c.032.499-.119 1.05-.53 1.456l-.815.806c-.081.08-.073.159-.059.19.162.346.353.677.573.989.02.03.085.076.195.046l1.102-.303c.56-.153 1.113-.008 1.53.27.161.107.328.204.501.29.447.222.85.629.997 1.189l.289 1.105c.029.109.101.143.137.146a6.6 6.6 0 0 0 1.142 0c.036-.003.108-.036.137-.146l.289-1.105c.147-.561.549-.967.998-1.189.173-.086.34-.183.5-.29.417-.278.97-.423 1.529-.27l1.103.303c.109.029.175-.016.195-.045.22-.313.411-.644.573-.99.014-.031.021-.11-.059-.19l-.815-.806c-.411-.406-.562-.957-.53-1.456a4.709 4.709 0 0 0 0-.582c-.032-.499.119-1.05.53-1.456l.815-.806c.081-.08.073-.159.059-.19a6.464 6.464 0 0 0-.573-.989c-.02-.03-.085-.076-.195-.046l-1.102.303c-.56.153-1.113.008-1.53-.27a4.44 4.44 0 0 0-.501-.29c-.447-.222-.85-.629-.997-1.189l-.289-1.105c-.029-.11-.101-.143-.137-.146a6.6 6.6 0 0 0-1.142 0ZM11 8a3 3 0 1 1-6 0 3 3 0 0 1 6 0ZM9.5 8a1.5 1.5 0 1 0-3.001.001A1.5 1.5 0 0 0 9.5 8Z"></path>
@@ -1381,7 +1381,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-41e040de-6519-416a-a25d-1aa5f597a9f2" href="https://docs.github.com" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-b595fd16-1b9c-4e31-bc56-0c526e2ed78b" href="https://docs.github.com" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-book">
     <path d="M0 1.75A.75.75 0 0 1 .75 1h4.253c1.227 0 2.317.59 3 1.501A3.743 3.743 0 0 1 11.006 1h4.245a.75.75 0 0 1 .75.75v10.5a.75.75 0 0 1-.75.75h-4.507a2.25 2.25 0 0 0-1.591.659l-.622.621a.75.75 0 0 1-1.06 0l-.622-.621A2.25 2.25 0 0 0 5.258 13H.75a.75.75 0 0 1-.75-.75Zm7.251 10.324.004-5.073-.002-2.253A2.25 2.25 0 0 0 5.003 2.5H1.5v9h3.757a3.75 3.75 0 0 1 1.994.574ZM8.755 4.75l-.004 7.322a3.752 3.752 0 0 1 1.992-.572H14.5v-9h-3.495a2.25 2.25 0 0 0-2.25 2.25Z"></path>
@@ -1399,7 +1399,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-34aba6b7-f17c-4350-ab42-a4f90a2f9cdc" href="https://support.github.com" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-90eeb144-3a0c-40c0-952b-e1f834da6de2" href="https://support.github.com" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
     <path d="M2 5.5a3.5 3.5 0 1 1 5.898 2.549 5.508 5.508 0 0 1 3.034 4.084.75.75 0 1 1-1.482.235 4 4 0 0 0-7.9 0 .75.75 0 0 1-1.482-.236A5.507 5.507 0 0 1 3.102 8.05 3.493 3.493 0 0 1 2 5.5ZM11 4a3.001 3.001 0 0 1 2.22 5.018 5.01 5.01 0 0 1 2.56 3.012.749.749 0 0 1-.885.954.752.752 0 0 1-.549-.514 3.507 3.507 0 0 0-2.522-2.372.75.75 0 0 1-.574-.73v-.352a.75.75 0 0 1 .416-.672A1.5 1.5 0 0 0 11 5.5.75.75 0 0 1 11 4Zm-5.5-.5a2 2 0 1 0-.001 3.999A2 2 0 0 0 5.5 3.5Z"></path>
@@ -1419,7 +1419,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-af369388-a56c-4d85-a192-6e984520d817" href="/logout" data-view-component="true" class="ActionListContent">
+    <a id="item-566c3576-0f3e-49b4-bbc4-9b67037aa16b" href="/logout" data-view-component="true" class="ActionListContent">
       
         <span data-view-component="true" class="ActionListItem-label">
           Sign out
@@ -1449,7 +1449,7 @@
 
   <ul data-view-component="true" class="UnderlineNav-body list-style-none">
       <li data-view-component="true" class="d-inline-flex">
-  <a id="code-tab" href="/horo053/qa_guru_12_lesson" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /horo053/qa_guru_12_lesson" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="code-tab" href="/autotests-cloud/qa_guru_4_9_telegram" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /autotests-cloud/qa_guru_4_9_telegram" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1461,7 +1461,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="issues-tab" href="/horo053/qa_guru_12_lesson/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /horo053/qa_guru_12_lesson/issues" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="issues-tab" href="/autotests-cloud/qa_guru_4_9_telegram/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /autotests-cloud/qa_guru_4_9_telegram/issues" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -1473,7 +1473,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="pull-requests-tab" href="/horo053/qa_guru_12_lesson/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /horo053/qa_guru_12_lesson/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="pull-requests-tab" href="/autotests-cloud/qa_guru_4_9_telegram/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /autotests-cloud/qa_guru_4_9_telegram/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -1485,7 +1485,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="actions-tab" href="/horo053/qa_guru_12_lesson/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /horo053/qa_guru_12_lesson/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="actions-tab" href="/autotests-cloud/qa_guru_4_9_telegram/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /autotests-cloud/qa_guru_4_9_telegram/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
@@ -1497,7 +1497,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="projects-tab" href="/horo053/qa_guru_12_lesson/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /horo053/qa_guru_12_lesson/projects" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g b" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Projects&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="projects-tab" href="/autotests-cloud/qa_guru_4_9_telegram/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /autotests-cloud/qa_guru_4_9_telegram/projects" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g b" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Projects&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table UnderlineNav-octicon d-none d-sm-inline">
     <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
@@ -1509,18 +1509,18 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="security-tab" href="/horo053/qa_guru_12_lesson/security" data-tab-item="i5security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /horo053/qa_guru_12_lesson/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="security-tab" href="/autotests-cloud/qa_guru_4_9_telegram/security" data-tab-item="i5security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /autotests-cloud/qa_guru_4_9_telegram/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline">
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
 </svg>
         <span data-content="Security">Security</span>
-          <include-fragment src="/horo053/qa_guru_12_lesson/security/overall-count" accept="text/fragment+html"></include-fragment>
+          <include-fragment src="/autotests-cloud/qa_guru_4_9_telegram/security/overall-count" accept="text/fragment+html"></include-fragment>
 
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="insights-tab" href="/horo053/qa_guru_12_lesson/pulse" data-tab-item="i6insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /horo053/qa_guru_12_lesson/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="insights-tab" href="/autotests-cloud/qa_guru_4_9_telegram/pulse" data-tab-item="i6insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /autotests-cloud/qa_guru_4_9_telegram/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline">
     <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -1542,31 +1542,31 @@
 </summary>
   <details-menu role="menu" data-view-component="true" class="dropdown-menu dropdown-menu-sw">          <ul>
               <li data-menu-item="i0code-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /horo053/qa_guru_12_lesson" href="/horo053/qa_guru_12_lesson">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /autotests-cloud/qa_guru_4_9_telegram" href="/autotests-cloud/qa_guru_4_9_telegram">
                   Code
 </a>              </li>
               <li data-menu-item="i1issues-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /horo053/qa_guru_12_lesson/issues" href="/horo053/qa_guru_12_lesson/issues">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /autotests-cloud/qa_guru_4_9_telegram/issues" href="/autotests-cloud/qa_guru_4_9_telegram/issues">
                   Issues
 </a>              </li>
               <li data-menu-item="i2pull-requests-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /horo053/qa_guru_12_lesson/pulls" href="/horo053/qa_guru_12_lesson/pulls">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /autotests-cloud/qa_guru_4_9_telegram/pulls" href="/autotests-cloud/qa_guru_4_9_telegram/pulls">
                   Pull requests
 </a>              </li>
               <li data-menu-item="i3actions-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /horo053/qa_guru_12_lesson/actions" href="/horo053/qa_guru_12_lesson/actions">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /autotests-cloud/qa_guru_4_9_telegram/actions" href="/autotests-cloud/qa_guru_4_9_telegram/actions">
                   Actions
 </a>              </li>
               <li data-menu-item="i4projects-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /horo053/qa_guru_12_lesson/projects" href="/horo053/qa_guru_12_lesson/projects">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /autotests-cloud/qa_guru_4_9_telegram/projects" href="/autotests-cloud/qa_guru_4_9_telegram/projects">
                   Projects
 </a>              </li>
               <li data-menu-item="i5security-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /horo053/qa_guru_12_lesson/security" href="/horo053/qa_guru_12_lesson/security">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /autotests-cloud/qa_guru_4_9_telegram/security" href="/autotests-cloud/qa_guru_4_9_telegram/security">
                   Security
 </a>              </li>
               <li data-menu-item="i6insights-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /horo053/qa_guru_12_lesson/pulse" href="/horo053/qa_guru_12_lesson/pulse">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /autotests-cloud/qa_guru_4_9_telegram/pulse" href="/autotests-cloud/qa_guru_4_9_telegram/pulse">
                   Insights
 </a>              </li>
           </ul>
@@ -1633,7 +1633,7 @@
 
 
     
-    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTAxODgzNzA4IiwidCI6MTY4NzIwNDAxN30=--8f3e41ef58983cf4e36dc7d18ca8f2d77531aa7e00825ee25cd2f1cd3955fc78" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
+    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTAxODgzNzA4IiwidCI6MTY4NzIxMDIxM30=--ac228f741603941a7bdb5c5b435d0dd538ac81c90ff6deff63e3ab83b9902f50" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
   <div hidden data-initial data-target="notification-shelf-watcher.placeholder"></div>
 
 
@@ -1650,7 +1650,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/horo053/qa_guru_12_lesson/blob/main/allure-piechart-telegram-2.0.5.jar
+      return-to=/autotests-cloud/qa_guru_4_9_telegram/blob/master/allure-piechart-telegram-2.0.5.jar
       user-id="101883708"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -1754,23 +1754,23 @@
         <command-palette-scope >
           <div data-target="command-palette-scope.placeholder" hidden class="color-fg-subtle">/&nbsp;&nbsp;<span class="text-semibold color-fg-default">...</span>&nbsp;&nbsp;/&nbsp;&nbsp;</div>
               <command-palette-token
-                data-text="horo053"
-                data-id="MDQ6VXNlcjU3NTg4MTg4"
+                data-text="autotests-cloud"
+                data-id="MDEyOk9yZ2FuaXphdGlvbjYyMzk3OTU1"
                 data-type="owner"
-                data-value="horo053"
+                data-value="autotests-cloud"
                 data-targets="command-palette-scope.tokens"
                 class="color-fg-default text-semibold"
                 style="white-space:nowrap;line-height:20px;"
-                >horo053<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
+                >autotests-cloud<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
               <command-palette-token
-                data-text="qa_guru_12_lesson"
-                data-id="R_kgDOJkNDWw"
+                data-text="qa_guru_4_9_telegram"
+                data-id="MDEwOlJlcG9zaXRvcnkzNDI2NDU5MTQ="
                 data-type="repository"
-                data-value="qa_guru_12_lesson"
+                data-value="qa_guru_4_9_telegram"
                 data-targets="command-palette-scope.tokens"
                 class="color-fg-default text-semibold"
                 style="white-space:nowrap;line-height:20px;"
-                >qa_guru_12_lesson<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
+                >qa_guru_4_9_telegram<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
         </command-palette-scope>
         <div class="command-palette-input-group flex-1 form-control border-0 box-shadow-none" style="z-index: 0">
           <div class="command-palette-typeahead position-absolute d-flex flex-items-center Truncate">
@@ -1807,12 +1807,12 @@
     <button aria-keyshortcuts="Control+Backspace" data-action="click:command-palette-input#onClear keypress:command-palette-input#onClear" data-target="command-palette-input.clearButton" id="command-palette-clear-button" hidden="hidden" type="button" data-view-component="true" class="btn-octicon command-palette-input-clear-button">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x-circle-fill">
     <path d="M2.343 13.657A8 8 0 1 1 13.658 2.343 8 8 0 0 1 2.343 13.657ZM6.03 4.97a.751.751 0 0 0-1.042.018.751.751 0 0 0-.018 1.042L6.94 8 4.97 9.97a.749.749 0 0 0 .326 1.275.749.749 0 0 0 .734-.215L8 9.06l1.97 1.97a.749.749 0 0 0 1.275-.326.749.749 0 0 0-.215-.734L9.06 8l1.97-1.97a.749.749 0 0 0-.326-1.275.749.749 0 0 0-.734.215L8 6.94Z"></path>
 </svg>
-</button>    <tool-tip id="tooltip-5fc63ece-c984-4ee8-ac20-f5bde654ecb6" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
+</button>    <tool-tip id="tooltip-eba711d8-6833-4a63-a9e7-05f6c479d5ec" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
 </div>
       </command-palette-input>
 
       <command-palette-page-stack
-        data-default-scope-id="R_kgDOJkNDWw"
+        data-default-scope-id="MDEwOlJlcG9zaXRvcnkzNDI2NDU5MTQ="
         data-default-scope-type="Repository"
         data-action="command-palette-page-octicons-cached:command-palette-page-stack#cacheOcticons"
       >
@@ -2240,16 +2240,16 @@
             </command-palette-item-group>
 
             <command-palette-page
-              data-page-title="horo053"
-              data-scope-id="MDQ6VXNlcjU3NTg4MTg4"
+              data-page-title="autotests-cloud"
+              data-scope-id="MDEyOk9yZ2FuaXphdGlvbjYyMzk3OTU1"
               data-scope-type="owner"
               data-targets="command-palette-page-stack.defaultPages"
               hidden
             >
             </command-palette-page>
             <command-palette-page
-              data-page-title="qa_guru_12_lesson"
-              data-scope-id="R_kgDOJkNDWw"
+              data-page-title="qa_guru_4_9_telegram"
+              data-scope-id="MDEwOlJlcG9zaXRvcnkzNDI2NDU5MTQ="
               data-scope-type="repository"
               data-targets="command-palette-page-stack.defaultPages"
               hidden
@@ -2260,14 +2260,14 @@
         <command-palette-page data-is-root>
         </command-palette-page>
           <command-palette-page
-            data-page-title="horo053"
-            data-scope-id="MDQ6VXNlcjU3NTg4MTg4"
+            data-page-title="autotests-cloud"
+            data-scope-id="MDEyOk9yZ2FuaXphdGlvbjYyMzk3OTU1"
             data-scope-type="owner"
           >
           </command-palette-page>
           <command-palette-page
-            data-page-title="qa_guru_12_lesson"
-            data-scope-id="R_kgDOJkNDWw"
+            data-page-title="qa_guru_4_9_telegram"
+            data-scope-id="MDEwOlJlcG9zaXRvcnkzNDI2NDU5MTQ="
             data-scope-type="repository"
           >
           </command-palette-page>
@@ -2576,6 +2576,9 @@
     <main id="js-repo-pjax-container" >
       
       
+    
+
+    
 
 
 
@@ -2592,7 +2595,7 @@
     <div id="repo-content-pjax-container" class="repository-content " >
       <a href="https://github.dev/" class="d-none js-github-dev-shortcut" data-hotkey=".">Open in github.dev</a>
   <a href="https://github.dev/" class="d-none js-github-dev-new-tab-shortcut" data-hotkey="Shift+.,Shift+&gt;,&gt;" target="_blank">Open in a new github.dev tab</a>
-    <a class="d-none" data-hotkey="," target="_blank" href="/codespaces/new/horo053/qa_guru_12_lesson/tree/main?resume=1">Open in codespace</a>
+    <a class="d-none" data-hotkey="," target="_blank" href="/codespaces/new/autotests-cloud/qa_guru_4_9_telegram/tree/master?resume=1">Open in codespace</a>
 
 
 
@@ -2606,14 +2609,14 @@
 
 <react-app
   app-name="react-code-view"
-  initial-path="/horo053/qa_guru_12_lesson/blob/main/allure-piechart-telegram-2.0.5.jar"
+  initial-path="/autotests-cloud/qa_guru_4_9_telegram/blob/master/allure-piechart-telegram-2.0.5.jar"
   style="min-height: calc(100vh - 62px)"
   data-ssr="false"
   data-lazy="false"
   data-alternate="false"
 >
   
-  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":true,"fileTree":{"":{"items":[{"name":"tests","path":"tests","contentType":"directory"},{"name":"utils","path":"utils","contentType":"directory"},{"name":".gitignore","path":".gitignore","contentType":"file"},{"name":"allure-piechart-telegram-2.0.5.jar","path":"allure-piechart-telegram-2.0.5.jar","contentType":"file"},{"name":"conftest.py","path":"conftest.py","contentType":"file"},{"name":"pytest.ini","path":"pytest.ini","contentType":"file"},{"name":"requirements.txt","path":"requirements.txt","contentType":"file"}],"totalCount":7}},"fileTreeProcessingTime":2.881197,"foldersToFetch":[],"reducedMotionEnabled":"system","repo":{"id":641942363,"defaultBranch":"main","name":"qa_guru_12_lesson","ownerLogin":"horo053","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2023-05-17T16:39:21.000+03:00","ownerAvatar":"https://avatars.githubusercontent.com/u/57588188?v=4","public":true,"private":false,"isOrgOwned":false},"refInfo":{"name":"main","listCacheKey":"v0:1684331489.976066","canEdit":true,"refType":"branch","currentOid":"2c52b4d64bab741bb6e2ddce79759d3f78db79df"},"path":"allure-piechart-telegram-2.0.5.jar","currentUser":{"id":101883708,"login":"mxchgeCode","userEmail":"dadbarn@gmail.com"},"blob":{"rawBlob":"","colorizedLines":null,"stylingDirectives":null,"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/horo053/qa_guru_12_lesson/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":false,"repoAlertsPath":"/horo053/qa_guru_12_lesson/security/dependabot","repoSecurityAndAnalysisPath":"/horo053/qa_guru_12_lesson/settings/security_analysis","repoOwnerIsOrg":false,"currentUserCanAdminRepo":false},"displayName":"allure-piechart-telegram-2.0.5.jar","displayUrl":"https://github.com/horo053/qa_guru_12_lesson/blob/main/allure-piechart-telegram-2.0.5.jar?raw=true","headerInfo":{"blobSize":"13.7 MB","deleteInfo":{"deletePath":"https://github.com/horo053/qa_guru_12_lesson/delete/main/allure-piechart-telegram-2.0.5.jar","deleteTooltip":"Fork this repository and delete the file"},"editInfo":{"editTooltip":"Fork this repository and edit the file"},"ghDesktopPath":"x-github-client://openRepo/https://github.com/horo053/qa_guru_12_lesson?branch=main\u0026filepath=allure-piechart-telegram-2.0.5.jar","gitLfsPath":null,"onBranch":true,"shortPath":"e04dc40","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fhoro053%2Fqa_guru_12_lesson%2Fblob%2Fmain%2Fallure-piechart-telegram-2.0.5.jar","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":null,"truncatedSloc":null},"mode":"file"},"image":false,"isCodeownersFile":null,"isValidLegacyIssueTemplate":false,"issueTemplateHelpUrl":"https://docs.github.com/articles/about-issue-and-pull-request-templates","issueTemplate":null,"discussionTemplate":null,"language":null,"large":true,"loggedIn":true,"newDiscussionPath":"/horo053/qa_guru_12_lesson/discussions/new","newIssuePath":"/horo053/qa_guru_12_lesson/issues/new","planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/horo053/qa_guru_12_lesson/blob/main/allure-piechart-telegram-2.0.5.jar","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","dismissStackNoticePath":"/settings/dismiss-notice/publish_stack_from_file","releasePath":"/horo053/qa_guru_12_lesson/releases/new?marketplace=true","showPublishActionBanner":false,"showPublishStackBanner":false},"renderImageOrRaw":true,"richText":null,"renderedFileInfo":null,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"repoOwner":"horo053","repoName":"qa_guru_12_lesson","showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","showDependabotConfigurationBanner":false,"actionsOnboardingTip":null},"truncated":true,"viewable":false,"workflowRedirectUrl":null,"symbols":{"timedOut":true,"notAnalyzed":true,"symbols":[],"error":{"code":"invalid_argument","msg":"content must be present","meta":{"argument":"content"}}}},"csrf_tokens":{"/horo053/qa_guru_12_lesson/branches":{"post":"RDHgHzTPRHfOD3PjrH2Ptj7DxWdP-5TVX0t6zcua3CsbIHoBsTFvVxlTw6kR4uC-WnXY_LpltVXHyluUfWx1yQ"}}},"title":"qa_guru_12_lesson/allure-piechart-telegram-2.0.5.jar at main · horo053/qa_guru_12_lesson","locale":"en","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-848bb9a5da17.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-f47a66bce6ac.js","githubDevUrl":"https://github.dev/","enabled_features":{"virtualize_file_tree":true,"react_repos_overview":false,"repos_new_shortcut_enabled":true,"blob_navigation_cursor":true,"code_nav_ui_events":false,"ref_selector_v2":false,"codeview_codemirror_next":true,"blob_firefox_separate_characters":false,"copilot_conversational_ux":false}}}</script>
+  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":true,"fileTree":{"":{"items":[{"name":"src","path":"src","contentType":"directory"},{"name":".gitignore","path":".gitignore","contentType":"file"},{"name":"allure-piechart-telegram-2.0.5.jar","path":"allure-piechart-telegram-2.0.5.jar","contentType":"file"},{"name":"build.gradle","path":"build.gradle","contentType":"file"}],"totalCount":4}},"fileTreeProcessingTime":2.352541,"foldersToFetch":[],"reducedMotionEnabled":"system","repo":{"id":342645914,"defaultBranch":"master","name":"qa_guru_4_9_telegram","ownerLogin":"autotests-cloud","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2021-02-26T20:12:25.000+03:00","ownerAvatar":"https://avatars.githubusercontent.com/u/62397955?v=4","public":true,"private":false,"isOrgOwned":true},"refInfo":{"name":"master","listCacheKey":"v0:1615019366.9473631","canEdit":true,"refType":"branch","currentOid":"96a698249079a8a080ea62c10dda321061260c98"},"path":"allure-piechart-telegram-2.0.5.jar","currentUser":{"id":101883708,"login":"mxchgeCode","userEmail":"dadbarn@gmail.com"},"blob":{"rawBlob":"","colorizedLines":null,"stylingDirectives":null,"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/autotests-cloud/qa_guru_4_9_telegram/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":false,"repoAlertsPath":"/autotests-cloud/qa_guru_4_9_telegram/security/dependabot","repoSecurityAndAnalysisPath":"/autotests-cloud/qa_guru_4_9_telegram/settings/security_analysis","repoOwnerIsOrg":true,"currentUserCanAdminRepo":false},"displayName":"allure-piechart-telegram-2.0.5.jar","displayUrl":"https://github.com/autotests-cloud/qa_guru_4_9_telegram/blob/master/allure-piechart-telegram-2.0.5.jar?raw=true","headerInfo":{"blobSize":"13.7 MB","deleteInfo":{"deletePath":"https://github.com/autotests-cloud/qa_guru_4_9_telegram/delete/master/allure-piechart-telegram-2.0.5.jar","deleteTooltip":"Fork this repository and delete the file"},"editInfo":{"editTooltip":"Fork this repository and edit the file"},"ghDesktopPath":"x-github-client://openRepo/https://github.com/autotests-cloud/qa_guru_4_9_telegram?branch=master\u0026filepath=allure-piechart-telegram-2.0.5.jar","gitLfsPath":null,"onBranch":true,"shortPath":"e04dc40","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fautotests-cloud%2Fqa_guru_4_9_telegram%2Fblob%2Fmaster%2Fallure-piechart-telegram-2.0.5.jar","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":null,"truncatedSloc":null},"mode":"file"},"image":false,"isCodeownersFile":null,"isValidLegacyIssueTemplate":false,"issueTemplateHelpUrl":"https://docs.github.com/articles/about-issue-and-pull-request-templates","issueTemplate":null,"discussionTemplate":null,"language":null,"large":true,"loggedIn":true,"newDiscussionPath":"/autotests-cloud/qa_guru_4_9_telegram/discussions/new","newIssuePath":"/autotests-cloud/qa_guru_4_9_telegram/issues/new","planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/autotests-cloud/qa_guru_4_9_telegram/blob/master/allure-piechart-telegram-2.0.5.jar","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","dismissStackNoticePath":"/settings/dismiss-notice/publish_stack_from_file","releasePath":"/autotests-cloud/qa_guru_4_9_telegram/releases/new?marketplace=true","showPublishActionBanner":false,"showPublishStackBanner":false},"renderImageOrRaw":true,"richText":null,"renderedFileInfo":null,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"repoOwner":"autotests-cloud","repoName":"qa_guru_4_9_telegram","showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","showDependabotConfigurationBanner":false,"actionsOnboardingTip":null},"truncated":true,"viewable":false,"workflowRedirectUrl":null,"symbols":{"timedOut":true,"notAnalyzed":true,"symbols":[],"error":{"code":"invalid_argument","msg":"content must be present","meta":{"argument":"content"}}}},"csrf_tokens":{"/autotests-cloud/qa_guru_4_9_telegram/branches":{"post":"Hae98bPJf6smA2PUpaibArCZfe1DvUZzbu6Z8awtxVg-7vtwX8QY76wxKlB_YezVYWOFD8F7itqSaL_irq6zIQ"}}},"title":"qa_guru_4_9_telegram/allure-piechart-telegram-2.0.5.jar at master · autotests-cloud/qa_guru_4_9_telegram","locale":"en","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-848bb9a5da17.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-f47a66bce6ac.js","githubDevUrl":"https://github.dev/","enabled_features":{"virtualize_file_tree":true,"react_repos_overview":false,"repos_new_shortcut_enabled":true,"blob_navigation_cursor":true,"code_nav_ui_events":false,"ref_selector_v2":false,"codeview_codemirror_next":true,"blob_firefox_separate_characters":false,"copilot_conversational_ux":false}}}</script>
   <div data-target="react-app.reactRoot"></div>
 </react-app>
 </turbo-frame>
